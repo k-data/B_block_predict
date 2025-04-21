@@ -5,4 +5,4 @@ scikit-learn
 joblib
 matplotlib
 seaborn
-japanize_matplotlib>=1.1.3
+japanize-matplotlib>=1.1.3
