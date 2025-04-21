@@ -5,7 +5,7 @@ import numpy as np
 import joblib
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-import japanize_matplotlib
+
 from datetime import datetime, timedelta
 
 # --- タイトル ---
